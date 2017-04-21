@@ -1,0 +1,5 @@
+54.223.251.199 ubuntu HomeAloneKey.pem ubuntu 22
+54.223.254.50 ubuntu HomeAloneKey.pem ubuntu 22
+54.223.242.237 ubuntu HomeAloneKey.pem ubuntu 22
+54.223.23.102 ubuntu HomeAloneKey.pem ubuntu 22
+54.223.173.103 ubuntu HomeAloneKey.pem ubuntu 22
